@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Gamze\\Kod\\repos\\Sipay.Bootcamp.GamzeNurMadan\\Sipay.Bootcamp.GamzeNurMadan.Assignment1\\Sipay.Bootcamp.GamzeNurMadan.Assignment1.csproj": {}
+  },
+  "projects": {
+    "D:\\Gamze\\Kod\\repos\\Sipay.Bootcamp.GamzeNurMadan\\Sipay.Bootcamp.GamzeNurMadan.Assignment1\\Sipay.Bootcamp.GamzeNurMadan.Assignment1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gamze\\Kod\\repos\\Sipay.Bootcamp.GamzeNurMadan\\Sipay.Bootcamp.GamzeNurMadan.Assignment1\\Sipay.Bootcamp.GamzeNurMadan.Assignment1.csproj",
+        "projectName": "Sipay.Bootcamp.GamzeNurMadan.Assignment1",
+        "projectPath": "D:\\Gamze\\Kod\\repos\\Sipay.Bootcamp.GamzeNurMadan\\Sipay.Bootcamp.GamzeNurMadan.Assignment1\\Sipay.Bootcamp.GamzeNurMadan.Assignment1.csproj",
+        "packagesPath": "C:\\Users\\Gamzenur\\.nuget\\packages\\",
+        "outputPath": "D:\\Gamze\\Kod\\repos\\Sipay.Bootcamp.GamzeNurMadan\\Sipay.Bootcamp.GamzeNurMadan.Assignment1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamzenur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

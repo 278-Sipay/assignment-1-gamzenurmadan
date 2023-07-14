@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sipay.Bootcamp.GamzeNurMadan.Assignment1.props" />
+</Project>
